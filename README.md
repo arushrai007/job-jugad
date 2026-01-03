@@ -1,5 +1,5 @@
 # Job Jugaad:Fresher-First AI Job Platform
-
+Made changes for git
 Job Jugaad is a production-ready, microservices-based platform designed exclusively for freshers (0-2 years experience). It leverages Java for core business logic, Python for AI/ML/Scraping, and Next.js for a high-performance interactive frontend.
 
 ## 🚀 Key Features
